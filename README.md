@@ -4,7 +4,7 @@ A clean, high-performance, and modern landing page built with semantic HTML5 and
 
 ## 🌐 Live Demo
 [View the Live Site Here](https://Hamza1462004.github.io/responsive-landing-page/)
-*(Note: Ensure you have enabled GitHub Pages in your settings for this link to work!)*
+
 
 ---
 
