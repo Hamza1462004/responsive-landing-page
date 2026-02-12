@@ -22,8 +22,7 @@ A clean, high-performance, and modern landing page built with semantic HTML5 and
 * **FontAwesome:** High-quality vector icons for social links.
 
 ## 📸 Preview
-![Desktop Preview](https://via.placeholder.com/800x450.png?text=Landing+Page+Desktop+Preview)
-*Replace this with a screenshot of your actual site once it's live!*
+![Desktop Preview] https://github.com/Hamza1462004/responsive-landing-page/blob/main/Screenshot%20(54).png
 
 ---
 
